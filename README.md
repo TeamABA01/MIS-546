@@ -4,7 +4,7 @@ Yelp Review Analysis & Recommendation System
 
 Overview
 
-This project by Group ABA01 from the MIS 546: Advanced Business Analytics course at Iowa State University aims to leverage advanced machine learning techniques to analyze Yelp reviews. We aim to gain a deeper understanding of consumer sentiments, accurately predict business ratings, and generate personalized user recommendations. Here is our full report at Medium
+This project by Group ABA01 from the MIS 546: Advanced Business Analytics course at Iowa State University aims to leverage advanced machine learning techniques to analyze Yelp reviews. We aim to gain a deeper understanding of consumer sentiments, accurately predict business ratings, and generate personalized user recommendations. Here is our full report at [Medium](https://medium.com/@mis_546/revolutionizing-local-business-strategies-with-yelp-f9101751f4b9)
 
 Objectives
 
@@ -30,8 +30,8 @@ Our project provides predictive insights and personalized recommendations, helpi
 
 Data Sources
 
-The project uses a dataset freely available from the Yelp Dataset consisting of user-generated reviews. We Particularly used review & business dataset in our project.
+The project uses a dataset freely available from the [Yelp Dataset](https://www.yelp.com/dataset) consisting of user-generated reviews. We Particularly used review & business dataset in our project.
 
 Technologies Used
 
-Natural Language Processing (NLP) Machine Learning Models (Naïve Bayes, SVM, Random Forest, etc.) Python, NLTK, scikit-learn
+Natural Language Processing (NLP) Machine Learning Models (Naïve Bayes, SVM, Random Forest, etc.) Python, NLTK, scikit-learn.
